@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab4.4</string>
+    <string name="editTextText">Écrivez ici</string>
+    <string name="urgentSwitch">Urgente</string>
+    <string name="addButton">Ajouter</string>
+</resources>
